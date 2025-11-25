@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maged-atef&show_icons=true&locale=en&layout=compact" alt="maged-atef" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maged-atef&show_icons=true&locale=en" alt="maged-atef" /></p>
 
 <h2>Nothing is Real if You Blind To See</h2>
