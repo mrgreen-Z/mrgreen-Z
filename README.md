@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mr.Green </h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maged-atef&label=Profile%20views&color=0e75b6&style=flat" alt="maged-atef" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrgreen-Z&label=Profile%20views&color=0e75b6&style=flat" alt="mrgreen-Z" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maged-atef" alt="maged-atef" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrgreen-Z" alt="mrgreen-Z" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maged-atef](https://github.com/mrgreen_Z)
+- 👨‍💻 All of my projects are available at [https://github.com/maged-atef](https://github.com/mrgreen-Z)
 
 - 💬 Ask me about **react**
 
