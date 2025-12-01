@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Analysis , Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrgreen-Z](https://github.com/zHandler)
+- 👨‍💻 All of my projects are available at [https://github.com/zHandler](https://github.com/zHandler)
 
 - 💬 Ask me about **react**
 
